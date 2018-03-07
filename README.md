@@ -1,4 +1,4 @@
-# brentonotis.com1.0
+# brentonotis.com - 1.0
 
 First single page website I haven't completely hated. Gotten to the point where I just need to push the dern thing and tweak/get on with it!
 
