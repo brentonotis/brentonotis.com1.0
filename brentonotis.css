@@ -136,3 +136,7 @@
 #rowphotos {
   justify-content: center;
 }
+
+#bigbutton {
+  border-radius: 5px;
+}
