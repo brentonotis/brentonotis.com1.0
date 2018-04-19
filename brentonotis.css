@@ -4,10 +4,6 @@
   margin-right: 10px;
 }
 
-#head {
-  
-}
-
 #box1 {
   background-image:url("https://image.ibb.co/mLr5d7/fpic1.jpg");
   border-radius:5px;
@@ -135,4 +131,8 @@
 
 #rowphotos {
   justify-content: center;
+}
+
+#textGen {
+  text-align: center;
 }
