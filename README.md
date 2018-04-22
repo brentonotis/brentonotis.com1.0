@@ -5,6 +5,7 @@ First single page website I haven't completely hated. Gotten to the point where 
 Future implementations coming asap:
 
 1) updating photos w/ high res./quality headshots
-2) implementing blog feature (and regularly updating)
+2) implementing static blog feature/page (and regularly updating)
+3) implementing static portfolio feature/page
 
 Take a peak: https://codepen.io/brentonotis/pen/vdoKzL
