@@ -6,6 +6,7 @@ Future implementations coming asap/before launching:
 
 1) updating photos w/ high res./quality headshots
 2) implementing static blog feature/page (and regularly updating)
+3) ensure optimized for mobile
 
 2.0 wishlist
 
