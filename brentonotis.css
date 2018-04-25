@@ -136,3 +136,11 @@
 #textGen {
   text-align: center;
 }
+
+#text-center {
+  color: rgb(193,184,184);
+  font-family: ABeeZee, sans-serif;
+  margin-bottom: 23px;
+  margin-top: 23px;
+  text-align: center;
+}
