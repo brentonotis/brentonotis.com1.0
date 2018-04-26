@@ -144,3 +144,13 @@
   margin-top: 23px;
   text-align: center;
 }
+
+#twitterButton {
+  color: white;
+  background-color: #0084b4;
+  border: #0084b4;
+}
+
+#twitterI {
+  color: white
+}
